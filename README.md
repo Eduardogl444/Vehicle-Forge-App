@@ -1,15 +1,15 @@
-#Vehicle Forge App
+# Vehicle Forge App
 
-##Description
+## Description
 
-This is a terminal app I had to adjust the code for as a challenge of a codingt bootcamp.
+This is a terminal app I had to adjust the code for as a challenge of a coding bootcamp.
 
-##Features
+## Features
 
 -Creating Vehicles 
 -Performing actions for new or existing vehicles
 
-##Usage
+## Usage
 
 Clone the repository and start the app in the terminal by running nmp start
 
