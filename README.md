@@ -7,6 +7,7 @@ This is a terminal app I had to adjust the code for as a challenge of a coding b
 ## Features
 
 -Creating Vehicles 
+
 -Performing actions for new or existing vehicles
 
 ## Usage
